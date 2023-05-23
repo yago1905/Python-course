@@ -1,3 +1,4 @@
+
 # 1. Найдите сумму цифр трехзначного числа.
 
 # *Пример:*
@@ -67,8 +68,8 @@
 # 3 2 4 -> yes
 # 3 2 1 -> no
 
-n, m, k = int(input()), int(input()), int(input())
-if k % m == 0 or k % n == 0:
-    print("YES")
-else:
-    print("NO")
+# n, m, k = int(input()), int(input()), int(input())
+# if k % m == 0 or k % n == 0:
+#     print("YES")
+# else:
+#     print("NO")
