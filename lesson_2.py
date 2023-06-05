@@ -59,17 +59,17 @@
 # Output: 2
 
 '''РЕШЕНИЕ'''
-num_dey = int(input('Введите количество дней: '))
+# num_dey = int(input('Введите количество дней: '))
 
-max_count = 0
-temp_count = 0
+# max_count = 0
+# temp_count = 0
 
-for _ in range(num_dey):
-    temperature = int(input('Введите температуру: '))
-    if temperature >= 0:
-        temp_count += 1
-    else:
-        temp_count = 0
-    if temp_count > max_count:
-        max_count = temp_count
-print(max_count)
+# for _ in range(num_dey):
+#     temperature = int(input('Введите температуру: '))
+#     if temperature >= 0:
+#         temp_count += 1
+#     else:
+#         temp_count = 0
+#     if temp_count > max_count:
+#         max_count = temp_count
+# print(max_count)
